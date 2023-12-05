@@ -1,0 +1,250 @@
+/*STYLESHEET FOR menu.HTML*/
+
+
+
+
+body{
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size:100%;
+    min-height: 30% !important;
+    background-color: #26330E;
+    background-image:url("../image/paper-menu.gif")
+}
+
+p{
+    font-family: boucherie-cursive, sans-serif;
+    color: #4F0B09;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
+    position: relative;
+    float: left;
+    left: 10px;
+    margin-top: -500px;
+
+}
+
+.food{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+    height: 620px;
+    position: relative;
+    top: -2100px;
+}
+
+img{
+    background-repeat: no-repeat;
+    height: 620px;
+    background-image: url("../image/coffee-book-header.gif");
+  
+}
+
+
+
+h1{
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 210px;
+    right: 100px;
+    bottom: 340px;
+
+}
+
+h2{
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 100px;
+    left: 200px;
+    bottom: 780px;
+}
+
+h3{
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 100px;
+    left: 850px;
+    bottom: 1120px;
+}
+
+h4{
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 210px;
+    left: 350px;
+    bottom:2560px;
+}
+
+h5{
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 100px;
+    left: 200px;
+    bottom: 3100px;
+}
+
+h6{
+    
+    font-family: boucherie-cursive, sans-serif;
+    color:#26330E; 
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-size: 100px;
+    left: 790px;
+    bottom: 3570px;
+}
+.list ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 50px;
+    bottom: 1300px;
+}
+
+.list2 ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 300px;
+    bottom: 1560px;
+}
+  
+.list3 ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 750px;
+    bottom: 1830px;
+}
+
+.list4 ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 950px;
+    bottom: 2100px;
+}
+
+.list5 ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 200px;
+    bottom: 3850px;
+}
+
+.list6 ul li{
+    color: #4F0B09;
+    font-size: 30px;
+    font-family:madelinette, sans-serif;
+    position: relative;
+    left: 800px;
+    bottom: 4050px;
+}
+
+
+
+
+.topnav ul li{
+    color: #FFEACC;
+    font-size: 30px;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    float: right;
+    text-decoration: none;
+}    
+
+.topnav ul li a{
+    color: #faebd7;
+    text-decoration: none;
+    position: relative;
+    bottom: 560px;
+    right: 270px;
+    margin: 15px;
+}
+
+
+.topnav a:link{
+    color:#FFEACC;
+}
+
+.topnav a:hover{
+    color:#4F0B09;
+}
+
+.topnav a:link{
+    text-decoration: none;
+}
+
+b{
+    color:#FFEACC;
+    font-size: 200px;
+    font-family: boucherie-cursive, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 170px;
+    position: relative;
+    float: left;
+    left: 280px;
+    bottom: 4540px;
+}
+
+.list7 ul li{
+    color: #FFEACC;
+    font-size: 30px;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    float: left;
+    text-decoration: none;
+    position: relative;
+    bottom: 4300px;
+    right: 200px;
+    margin: 15px;
+}    
+
+.list7 ul li a{
+    color: #faebd7;
+    text-decoration: none;
+}
+
+.list7 a:link{
+    color:#FFEACC;
+    text-decoration: none !important;
+}    
+.list7 a:hover{
+    color:#4F0B09;
+}
+
+.list7 a:visited{
+    text-decoration: none !important;
+}
+
+.container{
+    background-color: #26330E;
+    position: relative;
+    height: 400px;
+    width: 1250px;
+    bottom: 4000px;
+}
